@@ -1,0 +1,22 @@
+.underline {
+    text-decoration: underline;
+}
+.highlight {
+    background-color: orange;
+}
+.red-text {
+    color: red;
+}
+
+img{
+display: block;
+width: 345;
+margin: 0 auto 30 auto;
+}
+
+div1{
+display:block;
+max-width: 350;
+margin:auto;
+text-align: justify;
+}
